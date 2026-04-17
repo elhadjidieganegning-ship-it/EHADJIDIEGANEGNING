@@ -44,7 +44,6 @@ with st.sidebar:
     st.write("ELHADJI DIEGANE GNING")
     st. write("**TECHNICIEN SUPERIEUR EN GEOMATIQUE ET GEOGRAPHE**")
     st.write(" EMAIL:elhadjidieganegning@gmail.com")
-    st.write(" TELEPHONE : 77 797 47 14")
     st.write(" Adersse : Fatick;SENEGAL")
         
     
