@@ -12,7 +12,7 @@ st.markdown("---")
 # profils
 st.write("Technicien Superieur en Geomatique et Geographe , "
          "passionne par les systemes information geographique (SIG), la cartographie "
-         " analyse spatiale dessin plan et programmation pilotage de drone la teledection la numerisation la realisation de" 
+         " analyse spatiale dessin plan programmation pilotage de drone la teledection la numerisation la realisation de" 
          "carte la topographique et les suite bureautique.")
 
 # formations
