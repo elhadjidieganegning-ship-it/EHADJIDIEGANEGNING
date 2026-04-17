@@ -11,12 +11,12 @@ st.markdown("---")
 
 # profils
 st.write("Technicien Superieur en Geomatique et Geographe , "
-         "passionne par les systemes information geographique (SIG), la cartographie "
+         "spécialisée dans les systemes information geographique (SIG), la cartographie "
          " analyse spatiale dessin plan programmation pilotage de drone la teledection la numerisation la realisation de" 
          "carte la topographique et les suites bureautiques.")
 
-# formations
-st.header(" formation et diplomes")
+# diplomes
+st.header("diplômes")
 st.write("**LIENCE EN GEOGRAPHIE A UNIVERSITE CHEIKH ANTA DIOP**")
 
 st.write("**BREVRET TECHNICIEN SUPERIEUR EN GEOMATIQUE AU CENTRE D'ENTREPRENEURIAT ET DE DEVELOPPEMENT TECHNIQUE LE G15**")
