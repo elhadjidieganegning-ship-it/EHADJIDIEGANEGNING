@@ -10,9 +10,10 @@ st.title("ELHADJI DIEGANE GNING")
 st.markdown("---")
 
 # profils
-st.write("Etudiant motive en Lience 2 Geographie et en premiere annee de BTS en Geomatique, "
+st.write("Technicien Superieur en Geomatique et Geographe , "
          "passionne par les systemes information geographique (SIG), la cartographie "
-         " analyse spatiale dessin plan et programmation debutant.")
+         " analyse spatiale dessin plan et programmation pilotage de drone la teledection la numerisation la realisation de 
+         carte la topographique et les suite bureautique.")
 
 # formations
 st.header(" formation et diplomes")
@@ -33,7 +34,7 @@ st.markdown("""
 - lecture et interpretation de carte
 - dessin plan (AUTOCAD ET SKETCHUP)
 - topographies
-- collectes de donnees
+- collectes de donnees (Mobile Topographer)
 - teledections
 - analyses documentaires
 - pilote de drone 
