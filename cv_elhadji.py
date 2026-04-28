@@ -17,7 +17,7 @@ st.write("Technicien Superieur en Geomatique et Geographe , "
 
 # diplomes
 st.header("diplômes")
-st.write("**LIENCE EN GEOGRAPHIE A UNIVERSITE CHEIKH ANTA DIOP**")
+st.write("**LICENCE EN GEOGRAPHIE A UNIVERSITE CHEIKH ANTA DIOP**")
 
 st.write("**BREVRET TECHNICIEN SUPERIEUR EN GEOMATIQUE AU CENTRE D'ENTREPRENEURIAT ET DE DEVELOPPEMENT TECHNIQUE LE G15**")
 
