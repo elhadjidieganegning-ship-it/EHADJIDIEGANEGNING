@@ -38,6 +38,8 @@ st.markdown("""
 - teledections
 - analyses documentaires
 - pilotage de drone 
+- La Réalisation de Carte
+- La Numérisation sur ARCGIS
 """)
 
 with st.sidebar:    
