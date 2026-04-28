@@ -28,7 +28,7 @@ st.header(" competences")
 st.markdown(""" 
 - Outils informatique( suite Office )
 - Cartographie (QGIS)
-- SIG (QGIS, notions ARCGIS)
+- SIG (QGIS,ARCGIS)
 - Analyse Sptiale
 - Python
 - lecture et interpretation de carte
@@ -37,7 +37,7 @@ st.markdown("""
 - collectes de donnees (Mobile Topographer)
 - teledections
 - analyses documentaires
-- pilote de drone 
+- pilotage de drone 
 """)
 
 with st.sidebar:    
