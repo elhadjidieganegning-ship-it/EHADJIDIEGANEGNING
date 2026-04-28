@@ -45,7 +45,7 @@ with st.sidebar:
     st.write("ELHADJI DIEGANE GNING")
     st. write("**TECHNICIEN SUPERIEUR EN GEOMATIQUE ET GEOGRAPHE**")
     st.write(" EMAIL:elhadjidieganegning@gmail.com")
-    st.write(" Adersse : Fatick;SENEGAL")
+    st.write(" Adersse : DAKAR/SENEGAL")
         
     
 # Pied de page
