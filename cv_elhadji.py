@@ -50,4 +50,3 @@ with st.sidebar:
     
 # Pied de page
 st.markdown("---")
-st.write(" 2026 - ELHADJI DIEGANE GNING")
