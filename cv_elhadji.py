@@ -26,14 +26,14 @@ st.write("**BACCALAUREAT A UNIVERSITE CHEIKH ANTA DIOP**")
 # competences
 st.header(" competences")
 st.markdown(""" 
-- Outils informatique( suite Office )
+- Outils informatique( suites Offices )
 - Cartographie (QGIS)
 - SIG (QGIS,ARCGIS)
 - Analyse Sptiale
 - Python
 - lecture et interpretation de carte
 - dessin plan (AUTOCAD ET SKETCHUP)
-- topographies
+- topographie
 - collectes de donnees (Mobile Topographer)
 - teledections
 - analyses documentaires
