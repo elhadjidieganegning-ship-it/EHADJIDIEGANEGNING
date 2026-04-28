@@ -16,7 +16,7 @@ st.write("Technicien Superieur en Geomatique et Geographe , "
          "carte la topographique et les suites bureautiques.")
 
 # diplomes
-st.header("diplômes")
+st.header("Diplômes")
 st.write("**LICENCE EN GEOGRAPHIE A UNIVERSITE CHEIKH ANTA DIOP**")
 
 st.write("**BREVRET TECHNICIEN SUPERIEUR EN GEOMATIQUE AU CENTRE D'ENTREPRENEURIAT ET DE DEVELOPPEMENT TECHNIQUE LE G15**")
@@ -24,20 +24,20 @@ st.write("**BREVRET TECHNICIEN SUPERIEUR EN GEOMATIQUE AU CENTRE D'ENTREPRENEURI
 st.write("**BACCALAUREAT A UNIVERSITE CHEIKH ANTA DIOP**")
 
 # competences
-st.header(" competences")
+st.header("Competences")
 st.markdown(""" 
 - Outils informatique( suites Offices )
 - Cartographie (QGIS)
 - SIG (QGIS,ARCGIS)
 - Analyse Sptiale
 - Python
-- lecture et interpretation de carte
-- dessin plan (AUTOCAD ET SKETCHUP)
-- topographie
-- collectes de donnees (Mobile Topographer)
-- teledections
-- analyses documentaires
-- pilotage de drone 
+- Lecture et interpretation de carte
+- Dessin plan (AUTOCAD ET SKETCHUP)
+- Topographie
+- Collectes de donnees (Mobile Topographer)
+- Teledections
+- Analyses documentaires
+- Pilotage de drone 
 - La Réalisation de Carte
 - La Numérisation sur ARCGIS
 """)
