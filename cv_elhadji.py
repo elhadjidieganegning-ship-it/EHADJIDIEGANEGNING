@@ -42,7 +42,7 @@ st.markdown("""
 
 with st.sidebar:    
     # Information personnelles
-    st.write("ELHADJI DIEGANE GNING")
+    st.title("ELHADJI DIEGANE GNING")
     st. write("**TECHNICIEN SUPERIEUR EN GEOMATIQUE ET GEOGRAPHE**")
     st.write(" EMAIL:elhadjidieganegning@gmail.com")
     st.write(" Adersse : DAKAR/SENEGAL")
